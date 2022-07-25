@@ -194,5 +194,5 @@ Référez-vous au fichier [LICENCE.md](LICENCE.md) pour plus de détails.
 
 [demarche-url]: https://www.quebec.ca/gouv/politiques-orientations/vitrine-numeriqc/accompagnement-des-organismes-publics/demarche-conception-services-numeriques
 [demarche-shield]: https://img.shields.io/badge/Lifecycle-Experimental-339999
-[license-LiLiQ-url]: ./LICENSE.md
+[license-LiLiQ-url]: ././LICENCE.md
 [license-LiLiQ-shield]: https://img.shields.io/badge/Licence-LiLiQ--R-blue
