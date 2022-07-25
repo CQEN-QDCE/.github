@@ -5,7 +5,7 @@
 ---
 
 <div>
-    <img src="../images/mcn.png">
+    <img src="./images/mcn.png">
 </div>
 <!-- FIN ENTETE -->
 

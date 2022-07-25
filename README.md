@@ -14,7 +14,7 @@
 <!-- LOGO DU PROJET OU DE L'ORGANISME PUBLIQUE -->
 
 <div>
-    <img src="../images/mcn.png" />
+    <img src="./images/mcn.png" />
 </div>
 
 <!-- PROJET -->
