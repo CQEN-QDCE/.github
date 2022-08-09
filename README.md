@@ -1,21 +1,13 @@
-<!-- PROJECT SHIELDS -->
-<!--
-*** J'utilise les liens avec le "markdown reference style" pour une meilleure lisibilité. 
-*** Les liens de référence sont entourés par des brackets [ ] au lieu de parenteses ( ).
-*** Voir la fin de ce document pour la déclaration des variables de référence. 
-*** Ceci est une syntaxe optionnelle que vous pouvez utiliser. 
-*** https://www.markdownguide.org/basic-syntax/#reference-style-links
--->
-
-[![Démarche][demarche-shield]][demarche-url]
-[![License][license-LiLiQ-shield]][license-LiLiQ-url]
+<!-- ENTETE -->
+[![img](https://img.shields.io/badge/Lifecycle-Experimental-339999)](https://www.quebec.ca/gouv/politiques-orientations/vitrine-numeriqc/accompagnement-des-organismes-publics/demarche-conception-services-numeriques)
+[![License](https://img.shields.io/badge/Licence-LiLiQ--P-blue)](https://github.com/CQEN-QDCE/.github/blob/main/LICENCE.md)
 
 ---
-<!-- LOGO DU PROJET OU DE L'ORGANISME PUBLIQUE -->
 
 <div>
-    <img src="./images/mcn.png" />
+    <img src="https://github.com/CQEN-QDCE/.github/blob/main/images/mcn.png" />
 </div>
+<!-- FIN ENTETE -->
 
 <!-- PROJET -->
 # Titre du projet 
