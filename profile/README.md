@@ -13,7 +13,7 @@ Le Centre québécois d’excellence numérique (CQEN) est une unité du minist�
     - Des nouvelles technologies.
 	- Des nouvelles façons de faire (par ex : numérique de bout en bout ou dites-le une seule fois).
 
-Cette organisation contient les dépôts du CQEN ainsi que de projets et groupes de travail avec lesquels nous collaborons.
+Cette organisation contient les dépôts d'expérimentations du CQEN ainsi que de projets et groupes de travail avec lesquels nous collaborons.
 
 Pour les collaborateurs, vous pouvez accédez aux outils de l'environnement d'innovations avec les liens suivants:
 - [IaaS](https://ceai.awsapps.com/start#/)
