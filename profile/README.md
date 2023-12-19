@@ -16,6 +16,7 @@ Le Centre québécois d’excellence numérique (CQEN) est une unité du minist�
 Cette organisation contient les dépôts d'expérimentations du CQEN ainsi que de projets et groupes de travail avec lesquels nous collaborons.
 
 Pour les collaborateurs, vous pouvez accédez aux outils de l'environnement d'innovations avec les liens suivants:
-- [IaaS](https://ceai.awsapps.com/start#/)
-- [PaaS](https://console-openshift-console.apps.exp.openshift.cqen.ca/)
-- [DevaaS](https://codeready-openshift-workspaces.apps.exp.openshift.cqen.ca/dashboard/)
+- [Outil de cadencement Agile](https://taiga.cqen.ca/)
+- [Zone d'accueil infonuagique](https://ceai.awsapps.com/start#/)
+- [Plateforme de développement conteneurisé](https://console-openshift-console.apps.exp.openshift.cqen.ca/)
+- [Environnement de développement infonuagique](https://codeready-openshift-workspaces.apps.exp.openshift.cqen.ca/dashboard/)
